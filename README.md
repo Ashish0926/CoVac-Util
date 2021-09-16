@@ -7,6 +7,13 @@
 * Uses open API provided by the Govt. of India to get details of available slots.
 * Directs user to the official Govt. portal for slot booking.
 
+## External Dependencies Used
+
+* Recycler View
+* Card View
+* Retrofit Library
+* Cowin API
+
 ## Screenshots
 
 ![image](https://user-images.githubusercontent.com/55145996/133661627-9d611a07-b5c1-4ca5-a54d-6970bddf2e0a.png)
