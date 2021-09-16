@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CoVac Util</string>
+    <string name="pin">Pin Code</string>
+    <string name="please_enter_a_pincode_and_date_to_continue">Please enter a pincode and date to continue.</string>
+    <string name="dd_mm_yy">DD-MM-YYYY</string>
+    <string name="search">SEARCH</string>
+    <string name="time">Time:</string>
+    <string name="available_slots">Availability :</string>
+    <string name="_1st_dose">1st Dose :</string>
+    <string name="_780">780</string>
+    <string name="paid">Paid : </string>
+    <string name="uphc_8_smc">UPHC-8 SMC</string>
+    <string name="_18">18+</string>
+    <string name="siliguri_uphc_8_ward_no_47_paticolony">Siliguri UPHC 8 Ward No. 47 Paticolony</string>
+    <string name="west_bengal_darjeeling">West Bengal, Darjeeling</string>
+    <string name="_2nd_dose">2nd Dose :</string>
+    <string name="covishiled">COVISHILED</string>
+    <string name="date">Date :</string>
+    <string name="available_sessions">Available Sessions</string>
+    <string name="book_a_slot">Book a Slot</string>
+    <string name="covac_util">CoVac Util</string>
+</resources>

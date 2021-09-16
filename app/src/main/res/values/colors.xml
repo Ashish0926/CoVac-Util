@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#3d8f8c</color>
+    <color name="purple_500">#3d8f8c</color>
+    <color name="purple_700">#3d8f8c</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="bg_color">#262626</color>
+    <color name="green">#0f9100</color>
+    <color name="red">#bf2123</color>
+    <color name="grey">#7e8082</color>
+    <color name="editText_bg_color">#f2f5fa</color>
+    <color name="editTextBorderColor">#e9ebef</color>
+    <color name="primaryColor">#1d5250</color>
+    <color name="primaryButtonColor">#3d8f8c</color>
+
+</resources>
