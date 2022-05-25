@@ -8,7 +8,7 @@
 * Directs user to the official Govt. portal for slot booking.
 
 ## How to download the app? 💭
-Navigate to the releases section and follow the instructions there to download and install the app :)
+Navigate to the [releases](https://github.com/Ashish0926/CoVac-Util/releases) section and follow the instructions there to download and install the app :)
 
 ## Tech Stack! 💻
 * Android Studio
